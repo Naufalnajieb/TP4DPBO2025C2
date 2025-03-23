@@ -20,26 +20,26 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Penjelasan Alur Program
 1. **Tampilan Awal Program**
+
    <img src="https://github.com/user-attachments/assets/0c883c8e-1a46-405d-a6bf-9e695f6eb303" width="600">
 
-
-2. **User dapat menambahkan Data Mahasiswa**
+3. **User dapat menambahkan Data Mahasiswa**
    <img src="https://github.com/user-attachments/assets/3ef571a2-51e5-43e3-912e-2b9a15fc754e" width="800">
    <img src="https://github.com/user-attachments/assets/2f0fb9b9-e54c-4842-b556-809bb8bcde7c" width="800">
    <img src="https://github.com/user-attachments/assets/b4328175-cf61-468c-945f-9fbd212df17a" width="800">
    
-3. **User dapat memperbaharui Data Mahasiswa**
+4. **User dapat memperbaharui Data Mahasiswa**
    <img src="https://github.com/user-attachments/assets/0879e78c-285c-4177-a433-5a750005dbb5" width="800">
    <img src="https://github.com/user-attachments/assets/c82adcce-c1d8-461d-b15d-8774320417a9" width="800">
    <img src="https://github.com/user-attachments/assets/465e1ac6-8495-4ea6-adcc-0f321d67210e" width="800">
    <img src="https://github.com/user-attachments/assets/8612ebd9-d887-4f8a-b4de-69e5759ddff8" width="800">
    
-4. **User dapat menghapus Data Mahasiswa**
+5. **User dapat menghapus Data Mahasiswa**
    <img src="https://github.com/user-attachments/assets/36f5db4d-2bb0-4f8d-acc3-7d91f8b37abf" width="800">
    <img src="https://github.com/user-attachments/assets/db79ef86-a709-4979-9deb-87072a8fcbe9" width="800">
    <img src="https://github.com/user-attachments/assets/77431039-d0df-46e6-98c2-933bdc9bf152" width="800">
    
-5. **User dapat membatalkan untuk mengisi Data Mahasiswa**
+6. **User dapat membatalkan untuk mengisi Data Mahasiswa**
     <img src="https://github.com/user-attachments/assets/512ffe2f-8e45-4986-a2a6-885defb0c958" width="800">
     <img src="https://github.com/user-attachments/assets/2121c293-0351-4903-8bfb-b99bcf5c0cc3" width="800">
     
