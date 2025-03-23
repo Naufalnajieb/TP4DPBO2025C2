@@ -21,7 +21,8 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 # Penjelasan Alur Program
 1. **Tampilan Awal Program**
    <img src="https://github.com/user-attachments/assets/0c883c8e-1a46-405d-a6bf-9e695f6eb303" width="600">
-   
+
+
 2. **User dapat menambahkan Data Mahasiswa**
    <img src="https://github.com/user-attachments/assets/3ef571a2-51e5-43e3-912e-2b9a15fc754e" width="800">
    <img src="https://github.com/user-attachments/assets/2f0fb9b9-e54c-4842-b556-809bb8bcde7c" width="800">
